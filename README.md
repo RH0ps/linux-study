@@ -163,6 +163,7 @@ Linux・Docker環境で構築している運用自動化プロジェクト。
 * [Day54: health_check.shの機能強化とシステム全体の状態判定追加](./day54.md)
 * [Day55: GitHub ActionsにBatsテストを追加しCIを強化](./day55.md)
 * [Day56: backup.sh・restore.shの改善とエラー処理の修正](./day56.md)
+* [Day57: Batsを用いたテスト環境の構築・CLIテスト追加](./day57.md)
 
 
 
