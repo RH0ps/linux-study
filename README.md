@@ -164,6 +164,8 @@ Linux・Docker環境で構築している運用自動化プロジェクト。
 * [Day55: GitHub ActionsにBatsテストを追加しCIを強化](./day55.md)
 * [Day56: backup.sh・restore.shの改善とエラー処理の修正](./day56.md)
 * [Day57: Batsを用いたテスト環境の構築・CLIテスト追加](./day57.md)
+* [Day58: disk_monitor.shの動作テスト追加とmacOS対応](./day58.md)
+
 
 
 
