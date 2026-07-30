@@ -1,5 +1,6 @@
 # Linux学習記録 Day59
 ## backup.sh の自動テスト追加（Bats）
+## 実践内容
 
 - backup.sh 用の Bats テストファイル（tests/backup.bats）を新規作成
 - setup() を追加し、ROOT パスを共通化
