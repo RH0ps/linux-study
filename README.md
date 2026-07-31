@@ -166,6 +166,9 @@ Linux・Docker環境で構築している運用自動化プロジェクト。
 * [Day57: Batsを用いたテスト環境の構築・CLIテスト追加](./day57.md)
 * [Day58: disk_monitor.shの動作テスト追加とmacOS対応](./day58.md)
 * [Day59: backup.sh の自動テスト追加（Bats）](./day59.md)
+* [Day60: restore.sh のBats自動テスト追加](./day60.md)
+
+
 
 
 
